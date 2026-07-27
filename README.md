@@ -1,109 +1,187 @@
-<h1 align="center">Hi 👋, I'm Karuna Mayee Dash</h1>
-<h3 align="center">Frontend Developer | React & Next.js Engineer | UI/UX Enthusiast</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B1E6D&center=true&vCenter=true&width=600&lines=Building+responsive+ERP+%26+HRMS+apps;React.js+%7C+Next.js+%7C+Angular;Turning+ideas+into+intuitive+interfaces" alt="Typing SVG" />
+# ✨ Hi, I'm Karuna Mayee Dash 👋
+
+### 💜 Frontend Developer • React • Next.js • UI/UX Enthusiast
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=800&lines=Building+Modern+ERP+%26+HRMS+Applications;React.js+%7C+Next.js+%7C+Angular;Creating+Beautiful+User+Experiences;Always+Learning+Something+New+🚀"/>
+
+<br>
+
+<a href="https://github.com/karunaa-git24">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/karunadash-64572730b">
+<img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karunamayeedash09@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+![](https://komarev.com/ghpvc/?username=karunaa-git24&style=for-the-badge&color=8B5CF6)
+
+</div>
+
+---
+
+# 🌸 About Me
+
+<img align="right" width="330" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+
+🎓 BCA Student @ **Siksha 'O' Anusandhan (ITER)**
+
+💼 Frontend Developer Intern at **TFarms Pvt. Ltd.**
+
+🚀 Building modern **ERP & HRMS Applications**
+
+🎨 Passionate about **UI/UX Design**
+
+🌱 Learning **Next.js, React & AI Development**
+
+🤖 Exploring ChatGPT, Claude & GitHub Copilot
+
+💜 I love creating interfaces that are clean, elegant and user-friendly.
+
+---
+
+# ⚡ Tech Stack
+
+## 💻 Languages
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=js,ts,java,python,html,css,mysql"/>
+
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/karunadash-64572730b" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:karunamayeedash09@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/karunaa-git24" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
+## 🎨 Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind,bootstrap"/>
+
 </p>
 
----
+## ⚙ Backend
 
-### 🚀 About Me
+<p>
 
-- 🎓 Pursuing **Bachelor of Computer Application** at Siksha 'O' Anusandhan, ITER (2024 – 2027)
-- 💼 Currently working as a **Frontend Developer Intern** at **TFarms Pvt. Ltd.**, building responsive **ERP & HRMS** applications
-- 🌱 Full-stack development background across **Angular, Node.js, Express.js, and SQL**
-- 🎨 Growing skillset in **UI/UX design** with Figma & Canva
-- 🤖 Exploring **AI-assisted development** workflows with ChatGPT, Claude, and GitHub Copilot
-- 📫 Reach me at **karunamayeedash09@gmail.com**
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb"/>
 
----
+</p>
 
-### 🛠️ Tech Stack
+## 🎨 Design & Tools
 
-**Languages**
+<p>
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=figma,git,github,postman,vscode"/>
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
-
-**Backend & Databases**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
-**Design & Tools**
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-**AI Tools**
-
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=githubcopilot&logoColor=white)
-
----
-
-### 💼 Experience
-
-**Frontend Developer Intern — TFarms Pvt. Ltd.** _(June 2026 – Present)_
-Building responsive ERP and HRMS applications, dashboards, and admin panels using React.js and Next.js.
-
-**Full Stack Development Intern — DAS Solutions** _(July – Sept 2025)_
-Built and maintained full-stack web applications using Angular, Node.js, JavaScript, and SQL.
-
----
-
-### 📌 Featured Projects
-
-| Project | Description | Tech Stack |
-|---|---|---|
-| **HRMS & ERP Dashboard** | Responsive dashboards and admin panels for an enterprise HRMS/ERP platform | Next.js, React.js, Tailwind CSS, REST APIs |
-| **Real-Time Chat App** | Scalable MERN communication platform with real-time messaging, video calling & auth | MongoDB, Express.js, Node.js, Tailwind CSS |
-| **Student Management System** | Full-stack CRUD app for managing student records | Angular, Bootstrap, Node.js, REST APIs, SQL |
-| **To-Do List Application** | Responsive task management app with add/edit/delete functionality | Angular, Bootstrap, TypeScript |
-| **Portfolio Website** | Personal portfolio with smooth navigation and contact integration | HTML, CSS, JavaScript |
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=karunaa-git24&show_icons=true&theme=default&hide_border=true&title_color=3B1E6D&icon_color=3B1E6D" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunaa-git24&layout=compact&hide_border=true&title_color=3B1E6D" />
 </p>
 
 ---
 
-<p align="center">
-  <i>💜 Thanks for stopping by — let's connect and build something great!</i>
-</p>
+# 💼 Experience
+
+## 💜 Frontend Developer Intern
+
+### TFarms Pvt. Ltd.
+
+📅 June 2026 – Present
+
+✨ Building enterprise-grade
+
+- ERP Systems
+- HRMS Dashboards
+- Admin Panels
+- Responsive UI
+- Next.js Applications
+
+---
+
+## 💙 Full Stack Developer Intern
+
+### DAS Solutions
+
+📅 July 2025 – September 2025
+
+Worked on
+
+✔ Angular
+
+✔ Node.js
+
+✔ SQL
+
+✔ REST APIs
+
+✔ JavaScript
+
+---
+
+# 🚀 Featured Projects
+
+| 🚀 Project | 💜 Description | ⚡ Tech |
+|------------|---------------|----------|
+| ERP & HRMS Dashboard | Enterprise dashboard with responsive UI | Next.js • React • Tailwind |
+| Real-Time Chat App | Messaging + Video Calling Platform | MERN Stack |
+| Student Management System | Full CRUD Management Portal | Angular • SQL |
+| To-Do Application | Responsive productivity application | Angular |
+| Portfolio Website | Personal Portfolio | HTML • CSS • JavaScript |
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=karunaa-git24&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunaa-git24&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=karunaa-git24&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=karunaa-git24&theme=tokyonight&no-frame=true&margin-w=15&row=1"/>
+
+</div>
+
+---
+
+# 🌐 Let's Connect
+
+<div align="center">
+
+<a href="mailto:karunamayeedash09@gmail.com">
+<img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/karunadash-64572730b">
+<img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karunaa-git24">
+<img src="https://img.shields.io/badge/GitHub-8B5CF6?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💜 *"Great interfaces aren't just built—they're crafted."*
+
+⭐ If you like my work, consider giving my repositories a star!
+
+</div>
