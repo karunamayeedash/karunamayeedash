@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karuna Mayee Dash</h1>
-<h3 align="center">Frontend Developer | React & Next.js Engineer | UI/UX Enthusiast</h3>
+<h3 align="center">Frontend developer | React & Next.js Engineer | UI/UX Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=3B1E6D&center=true&vCenter=true&width=600&lines=Building+responsive+ERP+%26+HRMS+apps;React.js+%7C+Next.js+%7C+Angular;Turning+ideas+into+intuitive+interfaces" alt="Typing SVG" />
@@ -22,7 +22,7 @@
 ### 🚀 About Me
 
 - 🎓 Pursuing **Bachelor of Computer Application** at Siksha 'O' Anusandhan, ITER (2024 – 2027)
-- 💼 Currently working as a **Frontend Developer Intern** at **TFarms Pvt. Ltd.**, building responsive **ERP & HRMS** applications
+- 💼 Currently working as a ** AI Researcher Intern** at **TFarms Pvt. Ltd.**, building responsive **ERP & HRMS** applications
 - 🌱 Full-stack development background across **Angular, Node.js, Express.js, and SQL**
 - 🎨 Growing skillset in **UI/UX design** with Figma & Canva
 - 🤖 Exploring **AI-assisted development** workflows with ChatGPT, Claude, and GitHub Copilot
