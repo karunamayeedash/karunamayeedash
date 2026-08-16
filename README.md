@@ -9,13 +9,13 @@ AI Researcher • Full-Stack Developer • UI/UX Enthusiast
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/karunadash-64572730b">
+  <a href="https://www.linkedin.com/in/karunadash-64572730b" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:karunamayeedash09@gmail.com">
     <img src="https://img.shields.io/badge/Email-EC4899?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/karunaa-git24">
+  <a href="https://github.com/karunaa-git24" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -82,6 +82,7 @@ The experience strengthened my understanding of:
 **Certificate Status:** `ACTIVE`
 **Certificate No:** `TF-2026-0005`
 **Verification ID:** `TF-INT-2026-125640`
+**Issue Date:** `10 August 2026`
 
 ---
 
@@ -119,7 +120,7 @@ Worked on full-stack web applications using:
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### ⚙️ Backend & Database
+### ⚙️ Backend & Databases
 
 <p>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
@@ -128,7 +129,7 @@ Worked on full-stack web applications using:
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-### 🎨 Design & Development Tools
+### 🎨 Design & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -138,7 +139,7 @@ Worked on full-stack web applications using:
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 </p>
 
-### 🤖 AI & AI-Assisted Tools
+### 🤖 AI Tools
 
 <p>
 <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
@@ -160,7 +161,7 @@ Modern enterprise dashboards and administrative interfaces designed for HRMS/ERP
 
 ### 🤖 AkariNest — AI Interior Design Assistant
 
-An AI-powered interior design platform that allows users to analyze their rooms, interact with an AI assistant, receive personalized design recommendations and discover relevant products/designers.
+An AI-powered interior design platform where users can analyze their rooms, interact with an AI assistant, receive personalized design recommendations and discover relevant products and designers.
 
 **Tech:** `React` `Node.js` `Express` `AI` `Computer Vision`
 
@@ -190,32 +191,44 @@ Responsive task management application supporting task creation, editing and del
 
 ---
 
-## 📊 GitHub Analytics
+## 💡 What I Build
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=karunaa-git24&show_icons=true&hide_border=true&title_color=7C3AED&icon_color=EC4899&rank_icon=github" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karunaa-git24&layout=compact&hide_border=true&title_color=7C3AED" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=karunaa-git24&hide_border=true&theme=transparent&ring=7C3AED&fire=EC4899&currStreakLabel=7C3AED" />
-</p>
+|             🤖 AI Applications            |          💻 Full-Stack Systems         |          🎨 Digital Experiences          |
+| :---------------------------------------: | :------------------------------------: | :--------------------------------------: |
+| Intelligent assistants & AI-powered tools | Scalable web applications & dashboards | Clean, responsive & intuitive interfaces |
+|           AI-assisted workflows           |       REST APIs & backend systems      |          UI/UX & design systems          |
+|         Generative AI experiments         |         Enterprise applications        |         Modern interaction design        |
 
 ---
 
-## 🌱 Currently Learning
+## 🔭 Currently Exploring
 
-```text
-Generative AI
-     ↓
-AI Engineering
-     ↓
-LLM Applications
-     ↓
-AI + Full-Stack Development
-     ↓
-Building intelligent products
-```
+<p align="center">
+
+`Generative AI` · `AI Engineering` · `LLM Applications` · `Computer Vision` · `AI + Web`
+
+</p>
+
+I'm currently focused on understanding how AI can be integrated into real-world software products — from intelligent assistants and image analysis to AI-powered user experiences.
+
+---
+
+## 🧩 My Development Philosophy
+
+> **Build with purpose. Design with intention. Learn continuously.**
+
+I believe great software isn't just about writing code.
+It's about understanding the problem, designing a simple experience, and using the right technology to solve it.
+
+---
+
+## ⚡ Beyond Code
+
+🎨 **UI/UX** — Designing interfaces that feel simple and intuitive
+🤖 **AI** — Exploring intelligent applications and emerging AI technologies
+🧠 **Problem Solving** — Turning ideas into functional products
+📚 **Learning** — Constantly experimenting with new technologies
+🚀 **Building** — Learning by creating real-world projects
 
 ---
 
@@ -232,23 +245,43 @@ Building intelligent products
 
 ## 📜 Internship Certificate
 
-**AI Researcher Intern — TFARM Pvt. Ltd.**
+### AI Researcher Intern — TFARM Pvt. Ltd.
 
-| Certificate Detail  | Information                        |
-| ------------------- | ---------------------------------- |
-| **Role**            | AI Researcher Intern               |
-| **Department**      | IT Department                      |
-| **Duration**        | 25 Jun 2026 – 10 Aug 2026          |
-| **Certificate No.** | TF-2026-0005                       |
-| **Verification ID** | TF-INT-2026-125640                 |
-| **Issue Date**      | 10 Aug 2026                        |
-| **Status**          | ACTIVE                             |
-| **Hash**            | `921C6A0ECAF6EC5B0082590B7CB4513F` |
+| Certificate Detail  | Information               |
+| ------------------- | ------------------------- |
+| **Role**            | AI Researcher Intern      |
+| **Department**      | IT Department             |
+| **Duration**        | 25 Jun 2026 – 10 Aug 2026 |
+| **Certificate No.** | TF-2026-0005              |
+| **Verification ID** | TF-INT-2026-125640        |
+| **Issue Date**      | 10 Aug 2026               |
+| **Status**          | 🟢 ACTIVE                 |
 
 ---
 
-<h3 align="center">💜 Let's build something intelligent, useful & beautiful.</h3>
+## 🌐 Let's Connect
 
 <p align="center">
-  <i>AI • Engineering • Design • Creativity</i>
+
+<a href="https://www.linkedin.com/in/karunadash-64572730b" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:karunamayeedash09@gmail.com">
+<img src="https://img.shields.io/badge/Email-Say%20Hello-EC4899?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/karunaa-git24" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <h3 align="center">💜 Thanks for visiting my profile!</h3>
+  <p align="center">
+    <i>Always learning • Always building • Always exploring</i>
+  </p>
 </p>
