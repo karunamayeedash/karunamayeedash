@@ -280,7 +280,7 @@ It's about understanding the problem, designing a simple experience, and using t
 ---
 
 <p align="center">
-  <h3 align="center">💜 Thanks for visiting my profile!</h3>
+  <h3 align="center">🩵 Thanks for visiting my profile!</h3>
   <p align="center">
     <i>Always learning • Always building • Always exploring</i>
   </p>
