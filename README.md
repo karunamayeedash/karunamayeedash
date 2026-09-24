@@ -92,7 +92,7 @@ The experience strengthened my understanding of:
 
 Worked on full-stack web applications using:
 
-`Angular` • `Node.js` • `JavaScript` • `SQL`
+`Angular` • `Node.js` • `JavaScript` • `SQL` • 
 
 ---
 
@@ -171,7 +171,7 @@ An AI-powered interior design platform where users can analyze their rooms, inte
 
 Full-stack communication platform featuring real-time messaging, authentication and video calling.
 
-**Tech:** `MongoDB` `Express.js` `Node.js` `React` `Tailwind CSS`
+**Tech:** `MongoDB` `Express.js` `Node.js` `React` `Tailwind CSS` `javascript`
 
 ---
 
