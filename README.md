@@ -26,7 +26,7 @@ AI Researcher • Full-Stack Developer • UI/UX Enthusiast
 
 ---
 
-## ✨ About Me
+## 🙋 About Me
 
 🎓 **BCA Student** at Siksha 'O' Anusandhan, ITER
 ✨ Passionate about **Artificial Intelligence, Full-Stack Development & UI/UX**
