@@ -1,4 +1,4 @@
-<h1 align="center">Hello!!🩷I'm Karunaa</h1>
+<h1 align="center">Hello!!🩷I'm Karuna mayee </h1>
 
 <h3 align="center">
 AI Researcher • Full-Stack Developer • UI/UX Enthusiast
