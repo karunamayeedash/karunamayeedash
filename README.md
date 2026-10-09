@@ -1,4 +1,4 @@
-<h1 align="center">Heyy🩷 I'm Karuna mayee dash</h1>
+<h1 align="center">Heyy 💜 I'm Karuna mayee dash</h1>
 
 <h3 align="center">
 AI Researcher • Full-Stack Developer • UI/UX Enthusiast
